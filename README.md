@@ -1,3 +1,4 @@
+Mansi Rupareliya 👩‍💻
 # 💫 About Me:
 * 🔭 I’m currently working on building machine learning pipelines for large-scale text classification using PySpark and real-world datasets.<br><br>* 👯 I’m looking to collaborate on data science and big data projects, especially in NLP and machine learning applications.<br><br>* 🤝 I’m looking to improve my skills in deploying machine learning models on cloud platforms such as AWS and Azure.<br><br>* 🌱 I’m currently learning deep learning, transformer-based models (BERT), and cloud computing for scalable data engineering solutions.<br><br>* 💬 Ask me about PySpark, sentiment analysis, handling class imbalance in machine learning, and building end-to-end ML pipelines.<br><br>* ⚡ Fun fact: I trained a model on 1.69 million Amazon reviews, and the most difficult class to predict was the neutral category — 3-star reviews are surprisingly ambiguous even for models.<br>
 
