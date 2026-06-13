@@ -1,93 +1,22 @@
-# Mansi Rupareliya 👩‍💻
+# 💫 About Me:
+* 🔭 I’m currently working on building machine learning pipelines for large-scale text classification using PySpark and real-world datasets.<br><br>* 👯 I’m looking to collaborate on data science and big data projects, especially in NLP and machine learning applications.<br><br>* 🤝 I’m looking to improve my skills in deploying machine learning models on cloud platforms such as AWS and Azure.<br><br>* 🌱 I’m currently learning deep learning, transformer-based models (BERT), and cloud computing for scalable data engineering solutions.<br><br>* 💬 Ask me about PySpark, sentiment analysis, handling class imbalance in machine learning, and building end-to-end ML pipelines.<br><br>* ⚡ Fun fact: I trained a model on 1.69 million Amazon reviews, and the most difficult class to predict was the neutral category — 3-star reviews are surprisingly ambiguous even for models.<br>
 
-## MSc Financial Mathematics (UK) | Data Science | Machine Learning | AI Enthusiast
 
----
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Mansi Rupareliya ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maanurupareliya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maanurupareliya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mansi-rupareliya-1676a9269/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Manu Rupareliya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mansirupareliya01@gmail.com) 
 
-### 👋 About Me
-
-I am a Data Science and Machine Learning enthusiast currently pursuing an MSc in Financial Mathematics in the United Kingdom. I come from an Information Technology background and have a strong interest in applying data-driven and quantitative methods to solve real-world problems.
-
-I enjoy working at the intersection of **data, mathematics, and technology**, focusing on building meaningful insights through analytics and machine learning models.
-
----
-
-### 🎯 Interests
-
-* Data Science & Machine Learning
-* Artificial Intelligence
-* Financial Mathematics & Quantitative Analysis
-* Predictive Modeling & Statistical Analysis
-* Data Engineering & ETL Pipelines
-* Business Intelligence
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white) ![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-404040?style=for-the-badge&logo=Perforce&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Mansi Rupareliya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Mansi Rupareliya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mansi Rupareliya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Mansi Rupareliya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Skills
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rupareliyamanu955@gmail.com) 
 
-**Programming Languages**
-
-* Python
-* SQL
-
-**Data Science & ML**
-
-* Data Analysis & Visualization
-* Machine Learning Models
-* Feature Engineering
-* Exploratory Data Analysis (EDA)
-* Statistical Modeling
-
-**Tools & Libraries**
-
-* Pandas, NumPy
-* Scikit-learn
-* Matplotlib, Seaborn
-* Jupyter Notebook
-* Git & GitHub
-
----
-
-### 📊 What I Do
-
-* Build machine learning models for real-world datasets
-* Perform data cleaning, preprocessing, and feature engineering
-* Analyze financial and structured data
-* Develop end-to-end data science projects
-* Continuously explore AI and quantitative techniques
-
----
-
-### 🚀 Current Focus
-
-* Advanced Machine Learning techniques
-* Financial data analysis and modelling
-* Improving problem-solving with Python
-* Working on real-world portfolio projects
-* Strengthening quantitative finance concepts
-
----
-
-### 📂 Projects
-
-You will find here:
-
-* Data Analysis projects
-* Machine Learning models
-* Financial datasets exploration
-* Python-based automation and analytics work
-* Academic and personal projects
-
----
-
-### 📫 Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/mansi-rupareliya-1676a9269/
-* GitHub: https://github.com/MansiRuareliya
-* Email: mansirupareliyawz@gmail.com
-
----
-
-### 💡 Quote
-
-*"Turning data into insights, and insights into decisions."*
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
