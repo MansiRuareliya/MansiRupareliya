@@ -1,4 +1,3 @@
-# MansiRupareliya
 # Mansi Rupareliya 👩‍💻
 
 ## MSc Financial Mathematics (UK) | Data Science | Machine Learning | AI Enthusiast
